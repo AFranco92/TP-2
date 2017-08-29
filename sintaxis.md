@@ -1,12 +1,12 @@
 # Sintaxis de MarkDown
 
-En este documento descubrirás la sintaxis Markdown y los conceptos básicos para escribir utilizando este lenguaje de marcado. 
+En este documento descubrirï¿½s la sintaxis Markdown y los conceptos bï¿½sicos para escribir utilizando este lenguaje de marcado.
 
 La mejor manera de hacerse una idea de la sintaxis de Markdown es simplemente echar un vistazo a un escrito formateado como tal.
 
-## Título
-### Subtítulo
-Este es un ejemplo de texto que da entrada a una lista genérica de elementos:
+## Tï¿½tulo
+### Subtï¿½tulo
+Este es un ejemplo de texto que da entrada a una lista genï¿½rica de elementos:
 
 - Elemento 1
 - Elemento 2
@@ -18,20 +18,27 @@ Este es un ejemplo de texto que da entrada a una lista numerada:
 2. Elemento 2
 3. Elemento 3
 
-Al texto en Markdown puedes añadirle formato como **negrita** o *cursiva* de una manera muy sencilla.
+Al texto en Markdown puedes aï¿½adirle formato como **negrita** o *cursiva* de una manera muy sencilla.
 
-### Elementos de énfasis
+### Elementos de ï¿½nfasis
 Markdown utiliza asteriscos o guiones bajos para enfatizar.
-Simplemente tendrás que envolver palabras o textos en éstos símbolos para
+Simplemente tendrï¿½s que envolver palabras o textos en ï¿½stos sï¿½mbolos para
 conseguir cursivas o negritas.
 *cursiva*
 _cursiva_
 **negrita**
 __negrita__
-Por supuesto si quieres utilizar los dos tipos de énfasis no tienes más
+Por supuesto si quieres utilizar los dos tipos de ï¿½nfasis no tienes mï¿½s
 que combinar la sintaxis, envolviendo la palabra entre tres asteriscos o
 tres guiones bajos.
 
 ###Git remoto
-1_ La diferencia es que el local está en nuestras computadoras y es privado y el remoto está en GitHub y puede ser compartido con el resto de los usuarios.
-2_ 
+1_ La diferencia es que el local estï¿½ en nuestras computadoras y es privado y el remoto estï¿½ en GitHub y puede ser compartido con el resto de los usuarios.
+2_
+
+
+
+
+
+
+modificado por el mejor! 
